@@ -16,8 +16,6 @@
 
 ## Generative AI Foundations Certificate
 
-![Generative AI Fundamentals](certifications_images/AI%20Fundamentals.jpg)
-
 **Issued by:** upGrad (in collaboration with Microsoft)
 
 
@@ -31,10 +29,9 @@
 
 -Generative AI for Analysis, Problem-Solving & Automation
 
+![Generative AI Fundamentals](certifications_images/AI%20Fundamentals.jpg)
+
 ## 🐍 Python Programming Certification
-
-![Python Programming](certifications_images/Python.jpg)
-
 
 **Issued by:** Lasya Infotech
 
@@ -48,3 +45,5 @@
 -Object-Oriented Programming (OOP)
 
 -Practical Problem Solving with Python
+
+![Python Programming](certifications_images/Python.jpg)
