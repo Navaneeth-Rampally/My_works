@@ -14,7 +14,7 @@
 
 ![CompTIA Security+](certifications_images/CompTIA%20Security+.jpg) 
 
-## Generative AI Foundations Certificate
+## 🤖 Generative AI Foundations Certificate
 
 **Issued by:** upGrad (in collaboration with Microsoft)
 
